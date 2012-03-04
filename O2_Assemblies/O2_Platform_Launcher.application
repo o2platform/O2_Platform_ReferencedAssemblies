@@ -14,14 +14,14 @@
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="O2_Platform_Launcher.exe.manifest" size="14686">
+    <dependentAssembly dependencyType="install" codebase="O2_Platform_Launcher.exe.manifest" size="13381">
       <assemblyIdentity name="O2_Platform_Launcher.exe" version="1.0.0.145" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>4LFCCry9v25h6SQkZjmDH2vzS00=</dsig:DigestValue>
+        <dsig:DigestValue>LpDur3Yj1s46W1vkzII2WbTrBRE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
