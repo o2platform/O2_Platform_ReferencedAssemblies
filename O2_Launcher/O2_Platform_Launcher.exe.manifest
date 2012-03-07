@@ -4,7 +4,7 @@
   <description asmv2:iconFile="O2Logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="O2_Platform_Launcher" version="1.2.4448.287" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="O2_Platform_Launcher" version="1.2.4448.22998" language="neutral" processorArchitecture="msil" />
     <commandLine file="O2_Platform_Launcher.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="O2_FluentSharp.dll" size="279552">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="O2_FluentSharp.dll" size="280064">
       <assemblyIdentity name="O2_FluentSharp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>9a4CRMddIheTVxaoOEqrSPuY3ng=</dsig:DigestValue>
+        <dsig:DigestValue>4VpxJ+uJWGjRmqkcWFQWka6IneE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="O2_Platform_Launcher.exe" size="18432">
-      <assemblyIdentity name="O2_Platform_Launcher" version="1.2.4448.287" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="O2_Platform_Launcher" version="1.2.4448.22998" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>soPLKZ5kHGsoORivtmun+DaaydM=</dsig:DigestValue>
+        <dsig:DigestValue>wBztuRmT/DiVHr/toU73hmC2iUw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
