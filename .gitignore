@@ -1,1 +1,6 @@
 *.pdb
+
+/O2_Assemblies/O2_FluentSharp_BCL.dll
+/O2_Assemblies/O2_FluentSharp_CoreLib.dll
+/O2_Assemblies/O2_FluentSharp_REPL.dll
+/O2_Assemblies/_O2_V4_TempDir
